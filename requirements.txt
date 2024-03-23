@@ -1,4 +1,3 @@
 streamlit
 nltk
 scikit-learn
-scipy==1.12.0
